@@ -93,7 +93,7 @@ def nine(file):
 
 
 def main():
-    f1=np.genfromtxt(r'C:\Users\Shashwat Ratna\Desktop\realshh\Learn\Padhai\W8_Data_Files\cric_data-200320-181217.tsv',skip_header=1,usecols=[1,2,3])
+    f1=np.genfromtxt(r'C:\Users\cric_data-200320-181217.tsv',skip_header=1,usecols=[1,2,3])
     #one(f1)
     #two(f1)
     #three(f1)
